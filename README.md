@@ -4,7 +4,7 @@
 
 I am a computer science and artificial intelligence student at Loughborough University
 
-[![OlliePugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlliePugh)](https://github.com/anuraghazra/github-readme-stats)
+[![OlliePugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlliePugh)]
 
 
 <!--
