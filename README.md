@@ -4,6 +4,8 @@
 
 I am a computer science and artificial intelligence student at Loughborough University
 
+I enjoy anything from creating game mods to making and programming robots, always looking for something new to learn 😄
+
 ![OlliePugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlliePugh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlliePugh&layout=compact)
@@ -15,8 +17,7 @@ I am a computer science and artificial intelligence student at Loughborough Univ
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
