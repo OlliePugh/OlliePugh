@@ -1,27 +1,22 @@
-### Hi there 👋
+### Hey! 👋
 
-![](https://komarev.com/ghpvc/?username=OlliePugh)
+#### Tiny bit about me
 
-I am a computer science and artificial intelligence student at Loughborough University
+I am a final year Computer Science and Artificial Intelligence student at Loughborough University.
 
-I enjoy anything from creating game mods to making and programming robots, always looking for something new to learn 😄
+#### What do I make?
 
-![OlliePugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlliePugh)
+I make things that typically don't have much of a purpose but are pretty fun to play/interact with! Interact is a key word for the projects I make, I love making things that people from all over the world can interact with from the comfort of their own home!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlliePugh&layout=compact)
+- 🚗 Want to drive an RC car but don't have one, [You don't need one...](https://github.com/OlliePugh/race-track-orch)
 
+- 🎃 Wanted to make your own VR Horror Game but don't know how to do any game design? You can make and control the game all from your web browser... [I got you](https://github.com/OlliePugh/halloween-vr)
 
+- 🎄 Why not even [decorate my Christmas Tree](https://github.com/OlliePugh/online-christmas-tree-ui) for me?
 
-<!--
-**OlliePugh/OlliePugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All of these projects get put onto my [YouTube Channel](https://www.youtube.com/@ollieq) in a entertainment/comedy (My mum thinks they're funny?) style.
 
-Here are some ideas to get you started:
+#### But Why?
+Growing up I was always under the impression computers/engineering is boring, and now I fully beleive that engineering and programming are as boring as you make it, so make sure you make it fun! So I post these projects/videos in the hope it can change the minds of people to get involved and try it out themselves!
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just because no one has done it yet, doesn't mean you shouldn't.
