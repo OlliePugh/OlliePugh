@@ -1,9 +1,5 @@
 ### Hey! 👋
 
-#### Tiny bit about me
-
-I am a final year Computer Science and Artificial Intelligence student at Loughborough University.
-
 #### What do I make?
 
 I make things that typically don't have much of a purpose but are pretty fun to play/interact with! Interact is a key word for the projects I make, I love making things that people from all over the world can interact with from the comfort of their own home!
