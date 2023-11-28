@@ -8,7 +8,7 @@ I make things that typically don't have much of a purpose but are pretty fun to 
 
 - 🎃 Wanted to make your own VR Horror Game but don't know how to do any game design? You can make and control the game all from your web browser... [I got you](https://github.com/OlliePugh/halloween-vr)
 
-- 🎄 Why not even [decorate my Christmas Tree](https://github.com/OlliePugh/online-christmas-tree-ui) for me?
+- 🎄 Why not even [decorate my Christmas Tree](https://github.com/OlliePugh/interactive-christmas-tree-ui) for me?
 
 All of these projects get put onto my [YouTube Channel](https://www.youtube.com/@ollieq) in a entertainment/comedy (My mum thinks they're funny?) style.
 
