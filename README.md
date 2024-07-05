@@ -4,7 +4,7 @@
 
 I make things that typically don't have much of a purpose but are pretty fun to play/interact with! Interact is a key word for the projects I make, I love making things that people from all over the world can interact with from the comfort of their own home!
 
-- 🚗 Want to drive an RC car but don't have one, [You don't need one... (YouTube Video](https://youtu.be/HwvNMShiPvQ)
+- 🚗 Want to drive an RC car but don't have one, [You don't need one... (YouTube Video)](https://youtu.be/HwvNMShiPvQ)
 
 - 🎃 Wanted to make your own VR Horror Game but don't know how to do any game design? You can make and control the game all from your web browser... [I got you](https://github.com/OlliePugh/halloween-vr)
 
